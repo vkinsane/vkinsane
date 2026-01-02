@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 👨‍💻 All of my projects are available at [https://vishaldev.netlify.app/](https://vishaldev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dev-vishal.netlify.app/](https://dev-vishal.netlify.app/)
 
 - 💬 Ask me about **MERN, C++**
 
