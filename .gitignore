@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# Source photo and intermediate prep output — only the derived ASCII SVG is public
+assets/Picture1.jpg
+assets/source-prepped.png

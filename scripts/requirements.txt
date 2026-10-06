@@ -1,0 +1,9 @@
+# Needed by the daily GitHub Action (fetch + render)
+requests
+beautifulsoup4
+
+# Local-only: photo prep for the ASCII portrait (not used in CI)
+pillow
+numpy
+opencv-python-headless
+rembg
