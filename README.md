@@ -21,8 +21,27 @@
 
 <br><br>
 
-<a href="https://dev-vishal.netlify.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/vishal-khandate/">LinkedIn</a> ·
-<a href="https://leetcode.com/u/vishal_khandate2001/">LeetCode</a>
+<table>
+<tr>
+<td width="33%" valign="middle">
+<table><tr>
+<td width="110"><a href="https://dev-vishal.netlify.app/"><img src="./assets/portfolio-icon.png" width="110" /></a></td>
+<td align="left"><a href="https://dev-vishal.netlify.app/"><b>Portfolio</b></a><br />Projects, writeups, and shipped work</td>
+</tr></table>
+</td>
+<td width="33%" valign="middle">
+<table><tr>
+<td width="44"><a href="https://www.linkedin.com/in/vishal-khandate/"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="32" height="32" /></a></td>
+<td align="left"><a href="https://www.linkedin.com/in/vishal-khandate/"><b>LinkedIn</b></a><br />Open to connecting and collaborating</td>
+</tr></table>
+</td>
+<td width="33%" valign="middle">
+<table><tr>
+<td width="44"><a href="https://leetcode.com/u/vishal_khandate2001/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" /></a></td>
+<td align="left"><a href="https://leetcode.com/u/vishal_khandate2001/"><b>LeetCode</b></a><br />DSA practice and contest history</td>
+</tr></table>
+</td>
+</tr>
+</table>
 
 </div>
